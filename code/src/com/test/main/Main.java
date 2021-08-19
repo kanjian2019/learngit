@@ -13,4 +13,8 @@ public class Main {
     public static int add(int a, int b){
         return a + b;
     }
+
+    public static void p(){
+        System.out.println("123");
+    }
 }
